@@ -58,7 +58,7 @@ export const WorkspaceSidebar = () => {
         />
 
         <div className="flex flex-col px-2 mt-3 space-y-1">
-          <p className="flex items-center text-white text-sm font-bold ml-3">Manjit V Troy</p>
+          <p className="flex items-center justify-center text-white text-sm font-bold ml-3">Manjit v Troy</p>
           {/* <SidebarItem label="Threads" icon={MessageSquareText} id="threads" /> */}
           {/* <p className="text-white text-sm font-bold ml-3">Troy</p> */}
           {/* <SidebarItem label="Drafts & Sent" icon={SendHorizonal} id="drafts" /> */}
