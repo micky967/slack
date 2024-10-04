@@ -104,7 +104,7 @@ export const SignUpCard = ({
               required
             />
             <Button
-              variant="manjit"
+              variant="outline"
               type="submit"
               className="w-full"
               size="lg"
